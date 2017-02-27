@@ -1,3 +1,8 @@
+/*
+*	Created by Suphakrit Nakhabat (Bas)
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
